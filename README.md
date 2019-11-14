@@ -16,7 +16,7 @@ A lowpass filter can be dialed in from 0 to 1.
 ##### Mix
 Can mix between the dry and wet signal for each tap.
 
-##### Pan
-Each tap can be panned left or right.
+##### Transpose
+Each tap can be transposed by 12 semitones up or down.
 
 
