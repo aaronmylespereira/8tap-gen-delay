@@ -1,5 +1,5 @@
 # 8tap-gen-delay
-An 8 tap delay craeted in gen~.
+An 8 tap delay created in gen~.
 
 #### Functionality
 The device works with Live 10. It's got 5 tabs for controlling every parameter of the delay. 
